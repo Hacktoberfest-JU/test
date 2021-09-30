@@ -1,0 +1,5 @@
+Tanay = 10
+Jatin = 20
+
+for num in range(Tanay, Jatin + 1):
+	print(num)
